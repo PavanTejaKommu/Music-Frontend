@@ -1,0 +1,57 @@
+3 types www.amazan.com
+
+www , https , http ---> sub domain 
+amazan --> main - domain 
+.com , in  , at , net , gov , org 
+
+--> Bug --> undesirable behaviour (error)
+debug --> rectifiy the error 
+
+tweek the code ==> small changes to the code 
+
+
+What is html =>
+hyper text markup language 
+used to create a static web pages 
+
+tim == berner lee in 
+1992 version 1 -- html -1 ---->
+html - 5 --> 2014 5 version declared 
+
+w3c who runs html currently 
+
+
+
+syntax : 
+
+{
+formating tags  = to change apperaiance of the text formating is called formating tags 
+
+bolg , strong , get all in , emphasized , small , mark , big , superscripted , subscripted , delete , underline , inset
+}
+
+
+list 3 types 
+order ol -- type 1, A , a , i ,I 
+
+unordered ul --> disc , circle, square , none 
+description dl
+
+attributes {
+
+type = "A" 
+
+<ol type = "A" >
+
+type 1, A , a , i ,I 
+start , reversed , attribute 
+
+}
+contro + shift + r 
+
+border cell spacing , cellpadding , height , width , tbody, thead, tfoot 
+th , td , tr 
+call span , row span 
+
+
+
