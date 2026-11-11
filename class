@@ -31,7 +31,8 @@ bolg , strong , get all in , emphasized , small , mark , big , superscripted , s
 }
 
 
-list 3 types 
+list 3 types
+--------------- 
 order ol -- type 1, A , a , i ,I 
 
 unordered ul --> disc , circle, square , none 
